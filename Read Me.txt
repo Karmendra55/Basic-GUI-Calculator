@@ -1,0 +1,5 @@
+This is a Simple UI Calculator, using Tkinter and Python.
+Just Run the Program to use it.
+
+Any Queries or bugs, reach me at: karmendra5902@gmail.com
+The File should only be used for non-profitable, Learning Purpose.
